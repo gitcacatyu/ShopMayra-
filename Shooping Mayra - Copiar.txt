@@ -5,3 +5,5 @@ PAGO - > //PAGO - Shopping Mayra, agradece!
 FALTA - > //Falta o valor de cima - Shopping Mayra agradece!
 
 NOVA COMPRA - >//Shopping Mayra agradece a preferência!   
+
+tsc server.ts
